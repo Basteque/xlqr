@@ -1,2 +1,2 @@
 # xlqr
-xlqr will try to convert a sheet with http links into qrcodes
+XLQR is using a spreadsheet to generate QRCode linking to websites
